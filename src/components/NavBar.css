@@ -1,0 +1,11 @@
+
+.nav-link{
+    color: white; /* Set the text color to lightgray on hover */
+    /* Add any other styles you want to apply on hover */
+  }
+
+
+.nav-link:hover {
+    color: red; /* Set the text color to lightgray on hover */
+    /* Add any other styles you want to apply on hover */
+  }
